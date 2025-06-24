@@ -25,4 +25,32 @@
 
 <h2 align="center"> Rendering API </h2>
 
-<pre> { "FFlagDebugGraphicsPreferMetal": "True" } </pre>
+<h3>Direct3D 11</h3>
+
+```json
+{ "FFlagDebugGraphicsPreferD3D11": "True" }
+```
+
+<h3>Direct3D 10</h3>
+
+```json
+{ "FFlagDebugGraphicsPreferD3D11FL10": "True" }
+```
+
+<h3>Metal</h3>
+
+```json
+{ "FFlagDebugGraphicsPreferMetal": "True" }
+```
+
+<h3>Vulken</h3>
+
+```json
+{ "FFlagDebugGraphicsDisableDirect3D11": "True", "FFlagDebugGraphicsPreferVulkan": "True" }
+```
+
+<h3>OpenGL</h3>
+
+```json
+{ "FFlagDebugGraphicsDisableDirect3D11": "True", "FFlagDebugGraphicsPreferOpenGL": "True" }
+```
