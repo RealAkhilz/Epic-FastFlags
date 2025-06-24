@@ -59,3 +59,31 @@
 ```
 
 <h2 align="center">Graphic and Rendering FastFlags</h2>
+
+<h3>Kilo Pixels</h3>
+
+> [!note]
+> This fastflag changes Roblox resolution in kilo pixels, like the youtube graphics slider (Roblox GUI and game UI unaffected)
+
+<pre>
+4320p (8k) - 33178
+2160p (4k) - 8294
+1440p (2K) - 3686
+1080p (FHD) - 2074
+720p (HD) - 922
+480p (SD) - 410
+360p (Low SD) - 230
+</pre>
+
+```json
+{ "DFIntDebugDynamicRenderKiloPixels": "-1" }
+```
+
+<h3>Minimal Rendering</h3>
+
+> [!note]
+> Renders certain terrain and textures at a lower quality, potentially improving performance
+
+```json
+{ "FFlagDebugRenderingSetDeterministic": "True" }
+```
