@@ -39,11 +39,14 @@
 
 <h3>Metal</h3>
 
+> [!note]
+> This rendering API is only for MacOS
+
 ```json
 { "FFlagDebugGraphicsPreferMetal": "True" }
 ```
 
-<h3>Vulken</h3>
+<h3>Vulkan</h3>
 
 ```json
 { "FFlagDebugGraphicsDisableDirect3D11": "True", "FFlagDebugGraphicsPreferVulkan": "True" }
@@ -54,3 +57,6 @@
 ```json
 { "FFlagDebugGraphicsDisableDirect3D11": "True", "FFlagDebugGraphicsPreferOpenGL": "True" }
 ```
+
+<h3>Direct3D 11</h3>
+
