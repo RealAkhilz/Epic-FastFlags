@@ -17,3 +17,12 @@
 </div>
 
 - - -
+
+<h2>🏴 FastFlags </h2>
+
+> [!Important]
+> Some fastflags have !Important, !Warning, and !Caution, please read the fastflags that have these and use fastflags wisely.
+
+<h2 align="center"> Rendering API </h2>
+
+<pre> { "FFlagDebugGraphicsPreferMetal": "True" } </pre>
