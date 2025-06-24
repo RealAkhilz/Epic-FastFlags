@@ -58,5 +58,4 @@
 { "FFlagDebugGraphicsDisableDirect3D11": "True", "FFlagDebugGraphicsPreferOpenGL": "True" }
 ```
 
-<h3>Direct3D 11</h3>
-
+<h2 align="center">Graphic and Rendering FastFlags</h2>
