@@ -40,7 +40,7 @@
 <h3>Metal</h3>
 
 > [!note]
-> This rendering API is only for MacOS
+> This rendering API is only for MacOS.
 
 ```json
 { "FFlagDebugGraphicsPreferMetal": "True" }
@@ -63,7 +63,7 @@
 <h3>Kilo Pixels</h3>
 
 > [!note]
-> This fastflag changes Roblox resolution in kilo pixels, like the youtube graphics slider (Roblox GUI and game UI unaffected)
+> This fastflag changes Roblox resolution in kilo pixels, like the youtube graphics slider (Roblox GUI and game UI unaffected).
 
 <pre>
 4320p (8k) - 33178
@@ -79,11 +79,70 @@
 { "DFIntDebugDynamicRenderKiloPixels": "-1" }
 ```
 
+---
+
+<h3>Disable Post-Processing</h3>
+
+> [!note]
+> This fastflag disables post-processing
+
+```json
+{ "FFlagDisablePostFx": "True" }
+```
+
+---
+
 <h3>Minimal Rendering</h3>
 
 > [!note]
-> Renders certain terrain and textures at a lower quality, potentially improving performance
+> Renders certain terrain and textures at a lower quality, potentially improving performance.
 
 ```json
 { "FFlagDebugRenderingSetDeterministic": "True" }
 ```
+
+---
+
+<h3>Preserve Rendering Quality With Display Setting</h3>
+
+> [!note]
+> Roblox reduces your rendering quality depending on how your display is scaled in windows.
+
+```json
+{ "DFFlagDisableDPIScale": "True" }
+```
+
+---
+
+<h3>Disable Textures</h3>
+
+> [!note]
+> This fastflag disables Roblox textures.
+
+```json
+{ "FFlagTextureUseACR3": "True", "FIntTextureUseACRHundredthPercent": "10000" }
+```
+
+---
+
+<h3>Low Poly Meshes</h3>
+
+> [!note]
+> Makes Poly meshes low quality
+
+```json
+{ "DFIntCSGLevelOfDetailSwitchingDistance": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0" }
+```
+
+---
+
+<h3>Disable Player Shadows</h3>
+
+> [!note]
+> This fastflag disables player shadows
+
+```json
+{ "FIntRenderShadowIntensity": "0" }
+```
+
+---
