@@ -1729,7 +1729,7 @@ Ctrl + Shift + N: Toggles player names, and other BillboardGuis that show up abo
 }
 ```
 
-### WIFI OPTIMIZE???? ❗
+### SERVER LOCATION OPTIMIZE
 
 > [!WARNING]  
 > If you don’t know everything, don’t use it.  
