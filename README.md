@@ -1,5 +1,5 @@
 > [!important]
-> https://discord.gg/848BdgmvD9
+> https://discord.gg/rGdPF82Tmf
 
 <h1 align="center">FastFlags Lab</h1>
 
