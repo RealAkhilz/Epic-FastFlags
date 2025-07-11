@@ -5,6 +5,10 @@
 
 <h3 align="center"> Made by <a href="https://guns.lol/realakhil">RealAkhilz</a> </h3>
 
+<h5>Version 1.0.0 [7/11/2025]</h5>
+
+  - Released!
+
 - - -
 
 <h2>🚀 Quick Links </h2>
