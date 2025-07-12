@@ -25,10 +25,10 @@
 
 # How to import fastflags
 
-- Open ur bootstrapper
-- Fast Flags >> Add new >> Import JSON
-- Paste in JSON
-- Save the settings and u should be good to go!
+- **Open ur bootstrapper**
+- **Fast Flags >> Add new >> Import JSON**
+- **Paste in JSON**
+- **Save the settings and u should be good to go!**
 
 <img src="https://raw.githubusercontent.com/RealAkhilz/Epic-FastFlags/main/assets/tutorial.gif" >
 
