@@ -45,8 +45,15 @@
   <img src="https://github.com/RealAkhilz/Epic-FastFlags/blob/main/assets/emojis/IconStars.png" width="30"> FastFlags
 </h2>
 
-> [!IMPORTANT]  
+> [!Warning]  
 > Some fastflags have !Important, !Warning, and !Caution, please read the fastflags that have these and use fastflags wisely.
+
+> [!Important]
+> FastFlags do NOT get u banned of Roblox. U will only get banned if u use abusive/cheating FastFlags
+
+<h3>
+  Quick Navigation
+</h3>
 
 ## Rendering API
 
