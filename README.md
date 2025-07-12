@@ -30,6 +30,8 @@
 - Paste in JSON
 - Save the settings and u should be good to go!
 
+<img src="https://raw.githubusercontent.com/RealAkhilz/Epic-FastFlags/main/assets/tutorial.gif" >
+
 - - -
 
 # 🏴 FastFlags
