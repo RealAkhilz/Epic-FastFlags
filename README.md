@@ -52,8 +52,16 @@
 > FastFlags do NOT get u banned of Roblox. U will only get banned if u use abusive/cheating FastFlags
 
 <h3>
-  Quick Navigation
+  <img src="https://github.com/RealAkhilz/Epic-FastFlags/blob/main/assets/emojis/IconStars.png" width="25"> Quick Navigation
 </h3>
+
+- [Rendering API](https://github.com/RealAkhilz/Epic-FastFlags?tab=readme-ov-file#rendering-api)
+- [Graphics and Rendering FastFlags](https://github.com/RealAkhilz/Epic-FastFlags?tab=readme-ov-file#graphic-and-rendering-fastflags)
+- [Lighting](https://github.com/RealAkhilz/Epic-FastFlags?tab=readme-ov-file#lighting)
+- [Graphical Settings](https://github.com/RealAkhilz/Epic-FastFlags?tab=readme-ov-file#graphical-settings)
+- [UI](https://github.com/RealAkhilz/Epic-FastFlags?tab=readme-ov-file#ui)
+- [Audio](https://github.com/RealAkhilz/Epic-FastFlags?tab=readme-ov-file#audio)
+- [Latency](https://github.com/RealAkhilz/Epic-FastFlags?tab=readme-ov-file#latency)
 
 ## Rendering API
 
