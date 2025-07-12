@@ -19,6 +19,7 @@
 <div align="center">
 
 [![guns.lol](https://img.shields.io/badge/guns.lol-RealAkhilz-darkblue?style=flat&logo=link&logoColor=white)](https://guns.lol/realakhil)
+[![GitHub stars](https://img.shields.io/github/stars/RealAkhilz/Epic-FastFlags?style=social)](https://github.com/RealAkhilz/Epic-FastFlags)
 [![Discord](https://img.shields.io/discord/1380077621974667264?label=Discord&color=5865F2&logo=discord&logoColor=white)](https://discord.gg/848BdgmvD9)
 
 </div>
