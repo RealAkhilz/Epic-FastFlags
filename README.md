@@ -22,6 +22,15 @@
 
 - - -
 
+# How to import fastflags
+
+- Open ur bootstrapper
+- Fast Flags >> Add new >> Import JSON
+- Paste in JSON
+- Save the settings and u should be good to go!
+
+- - -
+
 # 🏴 FastFlags
 
 > [!IMPORTANT]  
