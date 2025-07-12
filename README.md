@@ -15,7 +15,7 @@
 - - -
 
 <h2> 
-  <img src=""> Quick Links 
+  <img src="https://github.com/RealAkhilz/Epic-FastFlags/blob/main/assets/emojis/IconRocket.png" width="30"> Quick Links 
 </h2>
 
 <div align="center">
