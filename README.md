@@ -1,7 +1,9 @@
 > [!important]
 > https://discord.gg/rGdPF82Tmf
 
-<h1 align="center">Epic FastFlags</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/bloxstraplabs/bloxstrap/main/Images/Bloxstrap.png" width="30"> Epic FastFlags
+</h1>
 
 <h3 align="center"> Made by <a href="https://guns.lol/realakhil">RealAkhilz</a> </h3>
 
