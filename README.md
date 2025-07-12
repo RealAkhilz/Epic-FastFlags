@@ -28,7 +28,9 @@
 
 - - -
 
-# How to import fastflags
+<h2>
+  <img src="https://github.com/RealAkhilz/Epic-FastFlags/blob/main/assets/emojis/IconPlus.png" width="30"> How to import fastflags
+</h2>
 
 - **Open ur bootstrapper**
 - **Fast Flags >> Add new >> Import JSON**
@@ -39,7 +41,9 @@
 
 - - -
 
-# 🏴 FastFlags
+<h2>
+  <img src="https://github.com/RealAkhilz/Epic-FastFlags/blob/main/assets/emojis/IconStars.png" width="30"> FastFlags
+</h2>
 
 > [!IMPORTANT]  
 > Some fastflags have !Important, !Warning, and !Caution, please read the fastflags that have these and use fastflags wisely.
