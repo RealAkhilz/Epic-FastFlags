@@ -74,8 +74,6 @@
   "FFlagGraphicsD3D11ExtraInitLog": "false",
   "FFlagDebugGraphicsDisableDirect3D11": "false",
   "FIntRenderShaderLoadAnalyticsHundredthPercent": 0,
-  "FFlagDisableHQShadersLowEndDx11": "true",
-  "FIntRenderDx11LowEndCoreCount": "SET THE VALUE TO YOUR CPU CORES"
 }
 ```
 
