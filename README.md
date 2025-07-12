@@ -7,10 +7,10 @@
 
 <h3 align="center"> Made by <a href="https://guns.lol/realakhil">RealAkhilz</a> </h3>
 
-<h5>Version 1.0.1 [7/12/2025]</h5>
+<h5>Version 1.0.5 [7/12/2025]</h5>
 
-  - Renamed to "Epic FastFlags"
-  - Added Importing Guide
+  - Added quick navigation
+  - Added custom emojis
 
 - - -
 
