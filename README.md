@@ -8,6 +8,7 @@
 <h5>Version 1.0.1 [7/12/2025]</h5>
 
   - Renamed to "Epic FastFlags"
+  - Added Importing Guide
 
 - - -
 
