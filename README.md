@@ -447,23 +447,6 @@
 { "FIntRenderMeshOptimizeVertexBuffer": "1" }
 ```
 
-### Pixel Quality Roblox
-
-> [!NOTE]  
-> 144p = 37  
-> 240p = 77  
-> 360p = 230  
-> 480p = 410  
-> 720p = 922  
-> 1080p = 2074  
-> 1440p = 3686  
-> 2160p (4k) = 8294  
-> 4320p (8k) = 33178
-
-```json
-{ "DFIntDebugDynamicRenderKiloPixels": "410" }
-```
-
 ### Remove Rendering Pre Processor
 
 ```json
