@@ -183,15 +183,6 @@
 { "DFFlagDisableDPIScale": "True" }
 ```
 
-### Disable Textures
-
-> [!NOTE]  
-> This fastflag disables Roblox textures.
-
-```json
-{ "FFlagTextureUseACR3": "True", "FIntTextureUseACRHundredthPercent": "10000" }
-```
-
 ### Low Poly Meshes
 
 > [!NOTE]  
@@ -347,16 +338,6 @@
   "FFlagAssetPreloadingIXP": "true",
   "DFIntAssetPreloading": "9999999",
   "DFIntNumAssetsMaxToPreload": "9999999"
-}
-```
-
-### Removes Only Roblox Texture
-
-```json
-{
-  "FFlagTextureUseACR5": "true",
-  "FFlagTexturePackUseACR4": "true",
-  "FIntTextureUseACRHundredthPercent": "10000"
 }
 ```
 
