@@ -7,10 +7,9 @@
 
 <h3 align="center"> Made by <a href="https://guns.lol/realakhil">RealAkhilz</a> </h3>
 
-<h5>Version 1.0.5 [7/12/2025]</h5>
+<h5>Version 1.0.5 [7/21/2025]</h5>
 
-  - Added quick navigation
-  - Added custom emojis
+  - Updated Dx11
 
 - - -
 
@@ -69,11 +68,12 @@
 
 ```json
 {
-  "FFlagRenderEnableGlobalInstancingD3D11": "true",
-  "FFlagDebugGraphicsPreferD3D11": "true",
-  "FFlagGraphicsD3D11ExtraInitLog": "false",
-  "FFlagDebugGraphicsDisableDirect3D11": "false",
-  "FIntRenderShaderLoadAnalyticsHundredthPercent": 0,
+    "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FFlagDebugGraphicsPreferD3D11": true,
+    "FFlagGraphicsD3D11ExtraInitLog": false,
+    "FFlagDisableHQShadersLowEndDx11": true,
+    "FIntGraphicsTextureReductionD3D11": 100,
+    "FIntRenderDx11LowEndCoreCount": "SET THE VALUE TO YOUR CPU CORES",
 }
 ```
 
